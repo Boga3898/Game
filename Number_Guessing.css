@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    box-shadow: black;
+}
+
+#number{
+   height:30px;
+   width:180px;
+   border: 2px solid;
+}
+
+#submit{
+   height:36px;
+   width:180px;
+   border: 2px solid;
+}
+
+.containr{
+  height:300px;
+  width:400px;
+  margin:20px auto;
+  background-color: blueviolet;
+  padding: 10px;
+  color:white;
+  text-align:center;
+  box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.4);
+}
+#message{
+  background-color:white;
+  height:50px;
+  width:370px;
+  margin:0px auto;
+  color:black;
+  border: 2px solid;
+  text-size-adjust: 50px;
+}
